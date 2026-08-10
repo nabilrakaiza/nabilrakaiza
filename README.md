@@ -18,11 +18,11 @@ I also teach. I'm a TA for CS2030 (Programming Methodology II) and CS2040 (Data 
 
 ## Stack
 
-**Languages** Python, TypeScript, Java, SQL, R
-**ML** PyTorch, scikit-learn, XGBoost, pandas, SHAP
-**LLM & retrieval** LangChain, Hugging Face, pgvector, hybrid search
-**Web** Next.js, React Native, Flask, Streamlit, Supabase
-**Data tooling** PostgreSQL, Qlik Sense, Power Automate
+**Languages**: Python, TypeScript, Java, SQL, R<br>
+**ML**: PyTorch, scikit-learn, XGBoost, pandas, SHAP<br>
+**LLM & retrieval**: LangChain, Hugging Face, pgvector, hybrid search<br>
+**Web**: Next.js, React Native, Flask, Streamlit, Supabase<br>
+**Data tooling**: PostgreSQL, Qlik Sense, Power Automate
 
 ## Projects
 
