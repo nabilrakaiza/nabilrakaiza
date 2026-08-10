@@ -10,9 +10,11 @@ Open to Jan 2027 internships as an **AI / ML Engineer, Data Scientist, or Softwa
 
 ## About
 
-Third-year student in Singapore, currently interning in Distribution Operations at Singlife, where I automate reporting pipelines in Python and Qlik. Before that I was a Data Science intern at Quantum Teknologi Nusantara in Jakarta.
+Third-year student in Singapore. I work mostly on NLP, LLMs, and retrieval, and I tend to learn things by rebuilding them from scratch.
 
-I work mostly on NLP, LLMs, and retrieval, and I tend to learn things by rebuilding them from scratch. I also TA CS2030 and CS2040 at NUS.
+Recently finished a Distribution Operations internship at Singlife, automating reporting pipelines in Python and Qlik. Before that I was a Data Science intern at Quantum Teknologi Nusantara in Jakarta.
+
+I also teach. I'm a TA for CS2030 (Programming Methodology II) and CS2040 (Data Structures & Algorithms) at NUS, working with 20+ students a week on Java, object-oriented design, and algorithms.
 
 ## Stack
 
