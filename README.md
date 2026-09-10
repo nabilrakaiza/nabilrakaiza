@@ -4,7 +4,7 @@
 # Nabil Rakaiza Abror
 
 Data Science & Analytics @ NUS, second major in Computer Science.
-Open to Jan 2027 internships as an **AI / ML Engineer, Data Scientist, or Software Engineer**.
+Open to July 2027 internships as an **AI / ML Engineer, Data Scientist, or Software Engineer**.
 
 [Portfolio](https://nabilrakaiza.vercel.app) · [LinkedIn](https://linkedin.com/in/nabilrakaiza) · [Email](mailto:nabilraka1234@gmail.com)
 
