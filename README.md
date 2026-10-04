@@ -4,7 +4,7 @@
 # Nabil Rakaiza Abror
 
 Data Science & Analytics @ NUS, second major in Computer Science.
-Open to July 2027 internships as an **AI / ML Engineer, Data Scientist, or Software Engineer**.
+Open to July 2027 internships as an **AI / ML Engineer or Data Scientist**.
 
 [Portfolio](https://nabilrakaiza.vercel.app) · [LinkedIn](https://linkedin.com/in/nabilrakaiza) · [Email](mailto:nabilraka1234@gmail.com)
 
@@ -14,7 +14,7 @@ Third-year student in Singapore. I work mostly on NLP, LLMs, and retrieval, and 
 
 Recently finished a Distribution Operations internship at Singlife, automating reporting pipelines in Python and Qlik. Before that I was a Data Science intern at Quantum Teknologi Nusantara in Jakarta.
 
-I also teach. I'm a TA for CS2030 (Programming Methodology II) and CS2040 (Data Structures & Algorithms) at NUS, working with 20+ students a week on Java, object-oriented design, and algorithms.
+I also teach. I'm a TA for CS2030 (Programming Methodology II) and CS2040 (Data Structures & Algorithms) at NUS, working with 35+ students on Java, object-oriented design, and algorithms.
 
 ## Stack
 
