@@ -7,7 +7,7 @@ Open to **July 2027** internships (5 to 6 months) as an **ML / AI Engineer, Data
 
 ## About
 
-Third-year student in Singapore. I work mostly on NLP, LLMs and retrieval, and I learn things by rebuilding them from scratch: a Transformer for translation, GPT-1, and language models from n-grams up. I care about measuring things properly: eval harnesses, controlled comparisons, and saying so when a result is negative.
+Third-year student in Singapore. I work mostly on NLP, AI/ML, and LLMs, and I learn things by rebuilding them from scratch: a Transformer for translation, GPT-1, and language models from n-grams up. I care about measuring things properly: eval harnesses, controlled comparisons, and saying so when a result is negative.
 
 Previously a Distribution Operations intern at Singlife (automating reporting pipelines in Python and Qlik) and a Data Science intern at Quantum Teknologi Nusantara in Jakarta (route optimisation and LLM pipelines). Starting an Operations Automation Engineer internship at ShopBack in January 2027.
 
